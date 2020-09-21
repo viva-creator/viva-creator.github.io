@@ -1,0 +1,19 @@
+body
+{
+    background-color: black;
+    color: white;
+}
+
+.jumbotron 
+{
+    background-color: black;
+}
+.roadwaytext
+{
+    font-weight: 1000px;
+}
+
+#navLink 
+{
+    color: black;
+}
